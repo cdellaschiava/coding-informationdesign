@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "../02"
+		},
+		{
+			"path": "../../coding für informationdesign/template_zeit"
+		},
+		{
+			"path": "../../coding für informationdesign/03"
+		},
+		{
+			"path": "../../../Downloads/p5.patgrad-main/examples/gradients"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "03"
+	}
+}
